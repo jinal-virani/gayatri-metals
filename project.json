@@ -1,0 +1,25 @@
+{
+  "overview": "Professional manufacturer website for Gayatri Metal Products — a brass and copper precision components company founded in 1985 in Jamnagar, Gujarat, India.",
+  "features": [
+    "Fixed navbar with mobile hamburger menu",
+    "Hero section with company tagline and CTA",
+    "About section with company history and key stats",
+    "16 product category cards with hover animations",
+    "Equipment and manufacturing capability showcase",
+    "ISO 9001:2015 and IATF 16949 certifications section",
+    "Leadership team profiles",
+    "Client testimonials carousel",
+    "Contact section with address, phone, email and contact form",
+    "Fully responsive design with Framer Motion scroll animations"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "manufacturing",
+    "b2b",
+    "industrial",
+    "brass",
+    "metals",
+    "showcase"
+  ],
+  "last_updated": "2026-05-20T12:52:42.450Z"
+}
